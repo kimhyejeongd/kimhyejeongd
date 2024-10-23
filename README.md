@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**kimhyejeongd/kimhyejeongd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=f9d7f2&height=180&text=Hello!&animation=twinkling&fontColor=000000&fontSize=70" />
     </div>
@@ -37,8 +32,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyejeongd&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+
     
